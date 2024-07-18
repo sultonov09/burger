@@ -1,0 +1,40 @@
+
+header{
+    background-image: url(./photo_2024-04-25_19-48-45.jpg);
+    padding: 170px 0;
+}
+
+.title {
+    font-size: 72px;
+}
+
+.txt {
+    font-size: 36px;
+}
+
+.text2 {
+    color: white;
+    font-size: 18px;
+}
+
+main {
+    padding: 50px 102px;
+}
+.oqrang{
+    background-color: white;
+
+}
+
+footer{
+    background-color: rgb(11,85,11);
+}
+.boshqacha{
+    background-color:  rgb(13, 43, 13);
+}
+main{
+    background-image: url(./photo_croppe.jpg);
+    margin-top: 25px;
+}
+h2{
+  font-size: 20px;
+}
